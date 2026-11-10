@@ -15,28 +15,9 @@
 
 ivy enables you to convert ML models, tools and libraries between frameworks using `ivy.transpile`
 
-<div style="display: block;" align="center">
-    <div>
-    <a href="https://jax.readthedocs.io">
-        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/jax.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <a href="https://www.tensorflow.org">
-        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/tensorflow.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <a href="https://pytorch.org">
-        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/pytorch.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <img class="dark-light" width="5%" src="https://github.com/ivy-llc/assets/blob/main/assets/empty.png?raw=true">
-    <a href="https://numpy.org">
-        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/numpy.svg">
-    </a>
-    </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unifyai/ivy/main/assets/ivy-frameworks.png" alt="ONNX, PyTorch, NumPy, TensorFlow, JAX and MXNet, frameworks ivy works with" width="100%">
+</p>
 
 <br clear="all" />
 
